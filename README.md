@@ -7,8 +7,8 @@
 * [Sources](#sources)
 
 ## General info
-My first project Mini Spaceship game created in PyGame.
-Use ↑ to play, Space key to start and Esc to close the game.
+My first project, Mini Spaceship game created in PyGame.
+Use ↑↓ to play, Space key to start and Esc to close the game.
 
 ## Technologies
 Project is created with:
@@ -32,4 +32,4 @@ $ git https://github.com/Nstrzelczyk/SpaceShipGame
 ```
 
 ## Sources
-This app is inspired by "Python, kurs programowania na prostych przykładach" Komputer Świat.
+This app is inspired by "Python, kurs programowania na prostych przykładach", Komputer Świat.
